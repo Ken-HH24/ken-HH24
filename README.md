@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Ken 👋
+
+- 🔭 I’m currently working on projects with React.
+- 🌱 I’m currently learning Rust.
+- 🤔 I’m looking for help with open source projects.
 
 <!--
 **Ken-HH24/ken-HH24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
