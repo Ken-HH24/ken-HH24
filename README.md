@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Rust.
 - 🤔 I’m looking for help with open source projects.
 
+[![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-HH24)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Ken-HH24/ken-HH24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
